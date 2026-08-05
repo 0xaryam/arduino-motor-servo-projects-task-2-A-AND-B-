@@ -10,16 +10,18 @@ arduino-robotics-tasks/
 │
 ├── Task-1-DC-Motors/
 │   ├── dc_motor.ino
-│   ├── README.md
 │   └── images/
 │       └── task1.png
+│   └── task 1 link
+
 │
 ├── Task-2-Ultrasonic-Servo-LED/
 │   ├── ultrasonic_servo_led.ino
-│   ├── README.md
 │   ├── images/
 │   │   └── task2.png
-│   └── demo-video.mp4
+│   └── demo-video.gif
+│   ├── task 2 link
+
 │
 └── README.md
 ```
