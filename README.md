@@ -11,7 +11,7 @@ This task controls four DC motors using the L293D motor driver and integrates an
 
 ### Circuit Image
 
-![Task 1 Circuit](images/task1.png)
+![Task 1 Circuit](taskA.png)
 
 ### Project Files
 
