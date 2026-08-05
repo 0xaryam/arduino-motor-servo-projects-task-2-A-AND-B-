@@ -32,7 +32,7 @@ https://github.com/user-attachments/assets/xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx
 
 ### Project Files
 
-[View Task 2 Project](Task-B-DEMO)
+[View Task 2 Project](Task-B-DEMO.mp4)
 
 ---
 
