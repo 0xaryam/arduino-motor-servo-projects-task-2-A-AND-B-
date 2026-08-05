@@ -1,53 +1,39 @@
-# Ultrasonic Sensor with Servo Motor and LED using Arduino
+# Arduino Robotics Tasks
 
-## Project Description
-This project uses an HC-SR04 ultrasonic sensor to detect the distance of an object When an object is detected between **2 cm and 10 cm**, the servo motor rotates to **90°** and the LED turns on When the object moves away, the servo returns to **0°** and the LED turns off
+This repository contains two Arduino projects completed as part of the Smart Methods Robotics Training.
 
-## Components
+## Projects
+
+### Task 1 – DC Motors, Servo Motor, and Ultrasonic Sensor
+Control four DC motors using the L293D motor driver and integrate a servo motor with an HC-SR04 ultrasonic sensor.
+
+**Features**
+- Control 4 DC motors
+- Move forward, backward, left, and right
+- Stop motors when an object is detected
+- Servo motor movement with ultrasonic sensor
+
+---
+
+### Task 2 – Ultrasonic Sensor with Servo Motor and LED
+Use an HC-SR04 ultrasonic sensor to detect nearby objects and control a servo motor and LED.
+
+**Features**
+- Detect objects between 2–10 cm
+- Rotate servo to 90°
+- Return servo to 0°
+- Turn LED ON/OFF based on object distance
+
+## Hardware
 - Arduino Uno
 - HC-SR04 Ultrasonic Sensor
 - SG90 Servo Motor
+- L293D Motor Driver
+- DC Motors
 - LED
 - 220Ω Resistor
 - Breadboard
 - Jumper Wires
-
-## Circuit Connections
-
-### HC-SR04
-- VCC → 5V
-- GND → GND
-- TRIG → D9
-- ECHO → D10
-
-### Servo Motor
-- Signal → D6
-- VCC → 5V
-- GND → GND
-
-### LED
-- Anode (+) → D3 through 220Ω resistor
-- Cathode (-) → GND
-
-## How It Works
-1. The ultrasonic sensor continuously measures the distance
-2. If the distance is between **2 cm and 10 cm**:
-   - Servo rotates to **90°**
-   - LED turns ON
-3. If the object moves farther than 10 cm:
-   - Servo returns to **0°**
-   - LED turns OFF
-
-## Arduino Code
-The project is programmed using the Arduino IDE with the **Servo** library
-
-## Expected Output
-- Object detected (2–10 cm):
-  - Servo rotates to 90°
-  - LED turns ON
-- Object moves away:
-  - Servo returns to 0°
-  - LED turns OFF
 
 ## Author
 Aryam Aseiri
