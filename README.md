@@ -9,9 +9,9 @@ This repository contains two Arduino robotics projects completed as part of the 
 ## Overview
 This task controls four DC motors using the L293D motor driver and integrates an ultrasonic sensor with a servo motor for obstacle detection.
 
-### Circuit Image
+###🎥 Circuit Image
 
-🎥 ![Task 1 Circuit](taskA.png)
+![Task 1 Circuit](taskA.png)
 
 ### Project Link
 
@@ -24,9 +24,9 @@ This task controls four DC motors using the L293D motor driver and integrates an
 ## Overview
 This task uses an HC-SR04 ultrasonic sensor to control a servo motor and an LED based on object distance.
 
-### Demonstration Video
+### 🎥 Demonstration Video
 
-🎥 ![DEMO](https://github.com/0xaryam/arduino-motor-servo-projects-task-2-A-AND-B-/blob/main/TASK-DEMO.gif)
+![DEMO](https://github.com/0xaryam/arduino-motor-servo-projects-task-2-A-AND-B-/blob/main/TASK-DEMO.gif)
 
 
 ### Project Files
