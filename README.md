@@ -9,7 +9,7 @@ This repository contains two Arduino robotics projects completed as part of the 
 ## Overview
 This task controls four DC motors using the L293D motor driver and integrates an ultrasonic sensor with a servo motor for obstacle detection.
 
-###🎥 Circuit Image
+### 🎥 Circuit Image
 
 ![Task 1 Circuit](taskA.png)
 
@@ -31,7 +31,7 @@ This task uses an HC-SR04 ultrasonic sensor to control a servo motor and an LED 
 
 ### Project Files
 
-🔗 [View Task 2 Project](https://www.tinkercad.com/things/5xdj1YoJXdM-brilliant-fyyran-rottis?sharecode=kgUKZH454IbkCaSzBrEtBdosq1UJbkEoeUiT0pzzoeA)
+🔗 ![View Task 2 Project](https://www.tinkercad.com/things/5xdj1YoJXdM-brilliant-fyyran-rottis?sharecode=kgUKZH454IbkCaSzBrEtBdosq1UJbkEoeUiT0pzzoeA)
 
 ---
 
