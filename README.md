@@ -26,7 +26,7 @@ This task uses an HC-SR04 ultrasonic sensor to control a servo motor and an LED 
 
 ### Demonstration Video
 
-[View Task 2 Project](TASK-DEMO.mp4)
+[View Task 2 Project](https://github.com/0xaryam/arduino-motor-servo-projects-task-2-A-AND-B-/blob/main/TASK-DEMO.MP4)
 
 
 ### Project Files
