@@ -1,39 +1,50 @@
 # Arduino Robotics Tasks
 
-This repository contains two Arduino projects completed as part of the Smart Methods Robotics Training.
-
-## Projects
-
-### Task 1 – DC Motors, Servo Motor, and Ultrasonic Sensor
-Control four DC motors using the L293D motor driver and integrate a servo motor with an HC-SR04 ultrasonic sensor.
-
-**Features**
-- Control 4 DC motors
-- Move forward, backward, left, and right
-- Stop motors when an object is detected
-- Servo motor movement with ultrasonic sensor
+This repository contains two Arduino robotics projects completed as part of the Smart Methods Robotics Training.
 
 ---
 
-### Task 2 – Ultrasonic Sensor with Servo Motor and LED
-Use an HC-SR04 ultrasonic sensor to detect nearby objects and control a servo motor and LED.
+# Task 1 – DC Motors with L293D and Ultrasonic Sensor
 
-**Features**
-- Detect objects between 2–10 cm
-- Rotate servo to 90°
-- Return servo to 0°
-- Turn LED ON/OFF based on object distance
+## Overview
+This task controls four DC motors using the L293D motor driver and integrates an ultrasonic sensor with a servo motor for obstacle detection.
 
-## Hardware
+### Circuit Image
+
+![Task 1 Circuit](images/task1.png)
+
+### Project Files
+
+[View Task 1 Project](Task-1/)
+
+---
+
+# Task 2 – Ultrasonic Sensor with Servo Motor and LED
+
+## Overview
+This task uses an HC-SR04 ultrasonic sensor to control a servo motor and an LED based on object distance.
+
+### Demonstration Video
+
+https://github.com/user-attachments/assets/xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx
+
+### Project Files
+
+[View Task 2 Project](Task-2/)
+
+---
+
+## Hardware Used
+
 - Arduino Uno
 - HC-SR04 Ultrasonic Sensor
 - SG90 Servo Motor
 - L293D Motor Driver
 - DC Motors
 - LED
-- 220Ω Resistor
 - Breadboard
 - Jumper Wires
 
 ## Author
+
 Aryam Aseiri
